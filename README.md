@@ -1,5 +1,5 @@
-<h1 align="left">Hi, I'm Uttis 👋
-  Xin chào, tôi tên Uttis! 👋
+<h1 align="left">Hi, I'm Uttis 👋 <br>
+  Xin chào, tôi tên Uttis! 👋 <br>
   <img src="https://i.pinimg.com/736x/f3/fa/1c/f3fa1c1b5b44acff33ddb186d3dd1862.jpg" width="200px" />
 
 
