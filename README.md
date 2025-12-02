@@ -9,7 +9,8 @@
 ---
 
 ### 🎧 Currently playing on Spotify
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31hpsngo4hhf7b5mphgq7cbeosw4&cover_image=true&theme=novatorem&show_offline=false&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/31hpsngo4hhf7b5mphgq7cbeosw4)
+[![Spotify](https://spotify-now-playing-eqlzr.vercel.app/api/now-playing?uid=31hpsngo4hhf7b5mphgq7cbeosw4)](https://open.spotify.com/user/31hpsngo4hhf7b5mphgq7cbeosw4)
+
 
 
 
