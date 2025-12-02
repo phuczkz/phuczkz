@@ -7,7 +7,7 @@
 
 ### 🎧 Currently playing on Spotify
 [![Spotify](https://spotify-now-playing-eqlzr.vercel.app/api/now-playing?uid=31hpsngo4hhf7b5mphgq7cbeosw4)](https://open.spotify.com/user/31hpsngo4hhf7b5mphgq7cbeosw4)
-
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/your_id)
 
 ---
 
