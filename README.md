@@ -2,10 +2,6 @@
 <h2 align="left">Xin chào, Tôi tên Uttis! 👋</h2>
 <h2 align="left">こんにちは、ウッティス と よんで ください! 👋</h2>
 
-<p align="center">
-  <img src="https://i.imgur.com/9JqTQoe.png" width="200px" />
-</p>
-
 ---
 
 ### 🎧 Currently playing on Spotify
