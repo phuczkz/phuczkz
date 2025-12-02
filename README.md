@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm Uttis 👋</h1>
 <h2 align="left">Xin chào, Tôi tên Uttis! 👋</h2>
-<p align="center">
+<p>
   <img src="https://i.pinimg.com/736x/f3/fa/1c/f3fa1c1b5b44acff33ddb186d3dd1862.jpg" width="200px" />
 </p>
 
@@ -9,10 +9,6 @@
 
 ### 🎧 Currently playing on Spotify
 [![Spotify](https://spotify-now-playing-eqlzr.vercel.app/api/now-playing?uid=31hpsngo4hhf7b5mphgq7cbeosw4)](https://open.spotify.com/user/31hpsngo4hhf7b5mphgq7cbeosw4)
-
-
-
-
 
 ---
 
@@ -31,7 +27,12 @@
 ### 😎 About Me
 Hi, I'm Uttis. I'm currently studying Information Technology at Hoa Sen University. I love exploring new technologies and building things that make life easier.
 
-🔥 Interests: AI, backend systems, IoT, app development, testing automation.
+🔥 Interests: backend systems, IoT, app development, testing automation.
 
 ---
+## Tech Stack:
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,cs,html,css,js,ts,react,nodejs" />
+</p>
+---
