@@ -9,7 +9,8 @@
 ---
 
 ### 🎧 Currently playing on Spotify
-[![Spotify](https://img.shields.io/badge/Spotify-Listen-green?style=for-the-badge&logo=spotify)](https://open.spotify.com/album/1AaxmI2e1HRhbwe9XJGPnT?uid=toptrack2wZAvkgiOE5tyrnqhB69KA&uri=spotify%3Atrack%3A2wZAvkgiOE5tyrnqhB69KA)
+[Nghe trên Spotify](https://open.spotify.com/album/1AaxmI2e1HRhbwe9XJGPnT?uid=toptrack2wZAvkgiOE5tyrnqhB69KA&uri=spotify%3Atrack%3A2wZAvkgiOE5tyrnqhB69KA)
+
 
 
 ---
