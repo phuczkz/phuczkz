@@ -1,6 +1,5 @@
 <h1 align="left">Hi, I'm Uttis 👋</h1>
 <h2 align="left">Xin chào, Tôi tên Uttis! 👋</h2>
-<h2 align="left">こんにちは、ウッティス と よんで ください! 👋</h2>
 
 ---
 
