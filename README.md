@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm Uttis 👋 <br>
   Xin chào, tôi tên Uttis! 👋 <br>
-  <img src="[[https://i.pinimg.com/736x/f3/fa/1c/f3fa1c1b5b44acff33ddb186d3dd1862.jpg]](https://raw.githubusercontent.com/phuczkz/phuczkz/refs/heads/main/avatar.png)" width="200px" />
+  <img src="https://raw.githubusercontent.com/phuczkz/phuczkz/refs/heads/main/avatar.png" width="200px" />
 
 
 ---
