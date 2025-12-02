@@ -8,8 +8,9 @@
 
 ---
 
-### 🎧 Currently not playing on Spotify
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/your_id)
+### 🎧 Currently playing on Spotify
+[![Spotify](https://img.shields.io/badge/Spotify-Listen-green?style=for-the-badge&logo=spotify)](https://open.spotify.com/album/1AaxmI2e1HRhbwe9XJGPnT?uid=toptrack2wZAvkgiOE5tyrnqhB69KA&uri=spotify%3Atrack%3A2wZAvkgiOE5tyrnqhB69KA)
+
 
 ---
 
@@ -26,23 +27,9 @@
 ---
 
 ### 😎 About Me
-
-Hello, I'm Uttis. I'm currently studying Computer Science and working on software engineering, embedded systems, and machine learning.  
-I love exploring new technologies and building things that make life easier.
+Hi, I'm Uttis. I'm currently studying Information Technology at Hoa Sen University. I love exploring new technologies and building things that make life easier.
 
 🔥 Interests: AI, backend systems, IoT, app development, testing automation.
 
 ---
 
-### 🧠 My Profile as Python Class
-
-```python
-class Uttis_Dev:
-    def __init__(self):
-        self.class_year = 2025
-        self.pronouns = "he/him"
-        self.skills = ["backend", "React", "IoT", "ML", "testing"]
-        self.hobbies = ["coding", "reading", "anime", "badminton"]
-
-    def say_hi(self):
-        return "Hi, thanks for visiting my profile!"
