@@ -2,10 +2,9 @@
   Xin chào, tôi tên Uttis! 👋 <br>
   <img src="https://raw.githubusercontent.com/phuczkz/phuczkz/refs/heads/main/avatar.png" width="200px" />
 
-
 ---
 
-### 🎧 Currently playing on Spotify
+### 🎧 playing on Spotify
 
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31hpsngo4hhf7b5mphgq7cbeosw4)
 
@@ -14,8 +13,7 @@
 ### 😎 About Me
 Hi, I'm Uttis. I'm currently studying Information Technology at Hoa Sen University. I love exploring new technologies and building things that make life easier.
 
-🔥 Interests: backend systems, IoT, app development, testing automation.
-
+🔥 Interests: backend systems, frontend dev, IoT, app development, testing automation.
 
 ---
 ## Tech Stack:
