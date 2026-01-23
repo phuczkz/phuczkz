@@ -21,4 +21,3 @@ Hi, I'm Uttis. I'm currently studying Information Technology at Hoa Sen Universi
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,c,cs,html,css,js,ts,react,nodejs,arduino,figma" />
 </p>
----
