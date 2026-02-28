@@ -16,6 +16,10 @@ Hi, I'm Uttis. I'm currently studying Information Technology at Hoa Sen Universi
 🔥 Interests: backend systems, frontend dev, IoT, app development, testing automation.
 
 ---
+[![GitHub Streak](https://streak-stats.demolab.com?user=phuczkz&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+
+---
+
 ## Tech Stack:
 
 <p align="left">
