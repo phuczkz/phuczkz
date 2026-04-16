@@ -1,23 +1,8 @@
-<h1 align="center">Hi 👋, I'm Uttis</h1>
-<h3 align="center">💻 FrontEnd Developer | 🚀 Tech Explorer | 🇻🇳 Vietnam</h3>
+<h1 align="left">Hi 👋, I'm Uttis</h1>
+<h3 align="left">💻 FrontEnd Developer | 🚀 Tech Explorer | 🇻🇳 Vietnam</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/phuczkz/phuczkz/refs/heads/main/avatar.png" width="180px" style="border-radius:50%" />
-</p>
-
----
-
-## 🎧 Favorite Song
-
-<p align="center">
-  <a href="https://open.spotify.com/track/6epn3r7S14KUqlReYr77hA">
-    <img src="https://i.scdn.co/image/ab67616d0000b273f46b9d202509a8f7384b90de" width="260px" style="border-radius:12px;" />
-  </a>
-</p>
-
-<p align="center">
-  <b>🎵 Baby</b><br>
-  <i>Justin Bieber</i>
 </p>
 
 ---
