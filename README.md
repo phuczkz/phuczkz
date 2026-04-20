@@ -2,20 +2,17 @@
 <h3 align="left">💻 FrontEnd Developer | 🚀 Tech Explorer | 🇻🇳 Vietnam</h3>
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/phuczkz/phuczkz/refs/heads/main/avatar.png" width="180px" style="border-radius:50%" />
+  <img src="https://raw.githubusercontent.com/phuczkz/phuczkz/refs/heads/main/avatar.png" width="180px" align="left" style="border-radius:50%; margin-right:20px;" />
 </p>
 
----
+##
+- ![](https://img.shields.io/badge/-IT%20Student%20Hoa%20Sen%20University-0A66C2?style=flat-square)
+- ![](https://img.shields.io/badge/-Scalable%20Systems%20%26%20UI-8A2BE2?style=flat-square)
+- ![](https://img.shields.io/badge/-Web%20%7C%20IoT%20%7C%20Automation-2ECC71?style=flat-square)
+- ![](https://img.shields.io/badge/-Continuous%20Learning-F39C12?style=flat-square)
+- ![](https://img.shields.io/badge/-Fullstack%20Engineer-E74C3C?style=flat-square)
 
-## About Me
-
-- 🎓 IT Student at **Hoa Sen University**
--  Passionate about building scalable systems & modern UI
--  Focus on: **Web Development, IoT, Automation**
--  Always learning & experimenting with new tech
--  Goal: Become a **Fullstack Engineer with strong system design skills**
-
----
+<br clear="left"/>
 
 ## Tech Stack
 
