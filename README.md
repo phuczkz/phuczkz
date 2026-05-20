@@ -31,11 +31,7 @@
 
 ---
 
-## GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=phuczkz&theme=transparent&hide_border=true" />
-</p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=phuczkz&hide_border=SAI&short_numbers=SAI" alt="GitHub Streak" /></a>
 
 ---
 
