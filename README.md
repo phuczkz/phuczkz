@@ -25,10 +25,15 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phuczkz&show_icons=true&theme=transparent&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phuczkz&layout=compact&theme=transparent&hide_border=true" />
+  <img 
+    height="200"
+    src="https://github-readme-stats.vercel.app/api?username=phuczkz&show_icons=true&theme=tokyonight&hide_border=true&locale=vi&include_all_commits=true" 
+  />
+  <img 
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=phuczkz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&locale=vi&card_width=320" 
+  />
 </p>
-
 ---
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=phuczkz&hide_border=SAI&short_numbers=SAI" alt="GitHub Streak" /></a>
