@@ -1,5 +1,13 @@
-<h1 align="left">Hi 👋, I'm Uttis</h1>
+<h1 align="left">Hi EveryOne 👋, I'm Uttis</h1>
 <h3 align="left">💻 FrontEnd Developer | 🚀 Tech Explorer | 🇻🇳 Vietnam</h3>
+
+<p align="left">
+  <a>🌐 Connect with Me √</a>
+  <a href="https://github.com/phuczkz"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.facebook.com/tran.phuc.193/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</p>
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/phuczkz/phuczkz/refs/heads/main/avatar.png" width="180px" align="left" style="border-radius:50%; margin-right:20px;" />
@@ -14,31 +22,12 @@
 
 <br clear="left"/>
 
-## Tech Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cs,html,css,js,ts,react,vite,firebase,nodejs,arduino,figma" />
+  <img src="https://skillicons.dev/icons?i=figma,react,vite,firebase,mysql,nodejs,html,css,js,arduino,python,c,cs,ts" />
 </p>
-
----
-
-## GitHub Stats
-
 <p align="center">
-  <img 
-    height="200"
-    src="https://github-readme-stats.vercel.app/api?username=phuczkz&show_icons=true&theme=tokyonight&hide_border=true&locale=vi&include_all_commits=true" 
-  />
-  <img 
-    height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=phuczkz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&locale=vi&card_width=320" 
-  />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=phuczkz&hide_border=SAI&short_numbers=SAI" alt="GitHub Streak" /></a>
 </p>
----
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=phuczkz&hide_border=SAI&short_numbers=SAI" alt="GitHub Streak" /></a>
-
----
 
 ## Featured Projects
 
@@ -51,19 +40,6 @@
 🔹 **Anime/Movie Streaming Platform**  
 > M3U8 streaming, caching optimization, custom player  
 
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://github.com/phuczkz"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" /></a>
-  <a href="https://www.facebook.com/tran.phuc.193/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-
-</p>
-
----
 <p align="left">
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="300"/>
 </p>
