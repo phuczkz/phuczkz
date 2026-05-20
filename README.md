@@ -59,7 +59,6 @@
 </p>
 
 ---
-
-## Fun Fact
-
-> I don't just write code — I build experiences
+<p align="left">
+  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="300"/>
+</p>
